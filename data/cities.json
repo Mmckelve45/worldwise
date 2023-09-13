@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.4168,
+        "lng": -3.7038
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Wiler",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2026-09-13T16:55:38.000Z",
+      "notes": "",
+      "position": {
+        "lat": "46.40756396630067",
+        "lng": "7.778320312500001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "In Salah",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-09-13T16:57:15.149Z",
+      "notes": "",
+      "position": {
+        "lat": "27.916766641249065",
+        "lng": "3.0047607421875"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Meridja",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-09-13T16:57:47.521Z",
+      "notes": "",
+      "position": {
+        "lat": "31.653381399664",
+        "lng": "-3.3178710937500004"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Ait Ourir",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2023-09-13T17:00:28.127Z",
+      "notes": "",
+      "position": {
+        "lat": "31.44741029142872",
+        "lng": "-7.844238281250001"
+      },
+      "id": 98443206
+    }
+  ]
+}
