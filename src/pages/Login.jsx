@@ -18,8 +18,6 @@ export default function Login() {
   function onLoginHandler(e) {
     e.preventDefault();
     if (email && password) {
-      console.log(email);
-      console.log(password);
       login(email, password);
     }
   }
@@ -27,7 +25,7 @@ export default function Login() {
   useEffect(
     function () {
       if (isAuthenticated === true) {
-        navigate("/app");
+        navigate("/app", { replace: true });
       }
     },
     [isAuthenticated, navigate]
