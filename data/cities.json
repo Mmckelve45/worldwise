@@ -59,6 +59,30 @@
         "lng": "2.9443359375"
       },
       "id": 98443204
+    },
+    {
+      "cityName": "Phoenix",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-15T21:44:40.082Z",
+      "notes": "Home town!",
+      "position": {
+        "lat": "33.49044407385236",
+        "lng": "-111.92527770996095"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "San Diego",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-15T21:56:04.468Z",
+      "notes": "The beach!",
+      "position": {
+        "lat": "32.71682168451442",
+        "lng": "-117.16094970703126"
+      },
+      "id": 98443206
     }
   ]
 }
